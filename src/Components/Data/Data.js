@@ -4,7 +4,7 @@ import Image3 from "../../assets/Shawerma/image3.png";
 import Image4 from "../../assets/Shawerma/image4.png";
 import Image5 from "../../assets/Shawerma/image19.png";
 import Image6 from "../../assets/Burger/image5.png";
-import Image7 from "../../assets/Burger/Image6.png";
+/*import Image7 from "../../assets/Burger/Image6.png";*/
 import Image8 from "../../assets/Burger/image7.png";
 import Image9 from "../../assets/Burger/image8.png";
 import Image10 from "../../assets/Burger/image9.png";
@@ -73,14 +73,14 @@ export const Productiondata =[
         info:"Info",
         price:"115 E.P",
     },
-    {
+    /*{
         id:7,
         category:"Burger",
         title:"Beef Burger",
         image:Image7, 
         info:"Info",
         price:"25 E.P",
-    },
+    },*/
     {
         id:8,
         category:"Burger",

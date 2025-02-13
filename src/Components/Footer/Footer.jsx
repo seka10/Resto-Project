@@ -71,7 +71,7 @@ const Footer = () => {
             {/* social contacts */}
             <div className="flex items-center gap-3 mt-6">
               <a
-                href="https://www.facebook.com/XSeka10X"
+                href="https://www.facebook.com/profile.php?id=100014948612662"
                 className="text-2xl hover:transform translate-all hover:-translate-y-2 duration-500 hover:scale-150"
               >
                 <FaFacebook />
